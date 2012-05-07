@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+}
+
+#wdgtback {
+    width: auto;
+    margin-right: -10px;
+    margin-left: 0px;
+    min-height: 211px;
+    height: auto;
+}
